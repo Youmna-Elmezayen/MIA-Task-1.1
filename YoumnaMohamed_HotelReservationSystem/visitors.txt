@@ -1,0 +1,3 @@
+Youmna,Human,1
+Hossam,Monster,7
+Miran,Monster,14

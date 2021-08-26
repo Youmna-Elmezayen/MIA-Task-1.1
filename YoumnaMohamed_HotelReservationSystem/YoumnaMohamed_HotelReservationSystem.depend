@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1629978525 source:e:\books\engineering\mia\online training\practice codes\youmnamohamed_hotelreservationsystem\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<vector>
+	<fstream>
+	<cstring>
+	"Entity.h"
+	"Human.h"
+	"Monster.h"
+	"Receptionist.h"
+
+1629897513 source:e:\books\engineering\mia\online training\practice codes\youmnamohamed_hotelreservationsystem\src\entity.cpp
+	"Entity.h"
+	<iostream>
+	<string>
+	<vector>
+
+1629974805 e:\books\engineering\mia\online training\practice codes\youmnamohamed_hotelreservationsystem\include\entity.h
+	<string>
+
+1629975185 source:e:\books\engineering\mia\online training\practice codes\youmnamohamed_hotelreservationsystem\src\monster.cpp
+	"Entity.h"
+	"Monster.h"
+	<iostream>
+	<string>
+	<Entity.h>
+
+1629904088 e:\books\engineering\mia\online training\practice codes\youmnamohamed_hotelreservationsystem\include\monster.h
+	"Entity.h"
+	<string>
+
+1629978237 source:e:\books\engineering\mia\online training\practice codes\youmnamohamed_hotelreservationsystem\src\receptionist.cpp
+	"Receptionist.h"
+	"Entity.h"
+	"Human.h"
+	"Monster.h"
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+
+1629970340 e:\books\engineering\mia\online training\practice codes\youmnamohamed_hotelreservationsystem\include\receptionist.h
+	"Human.h"
+	"Monster.h"
+	<string>
+	<vector>
+
+1629974892 e:\books\engineering\mia\online training\practice codes\youmnamohamed_hotelreservationsystem\include\human.h
+	"Entity.h"
+	<string>
+
+1629976642 source:e:\books\engineering\mia\online training\practice codes\youmnamohamed_hotelreservationsystem\src\human.cpp
+	"Entity.h"
+	"Human.h"
+	<string>
+	<iostream>
+	<Entity.h>
+	<fstream>
+	<cstring>
+
